@@ -26,3 +26,7 @@ Things you may want to cover:
 # Devise-auth
 
 An RoR authentication system build with Rails 6.1 and Devise
+
+# devise-auth
+
+An RoR API authentication feature with Devise
